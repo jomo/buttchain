@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Buttchain",
   "version": "1.0",
-  "description": "Replaces blockchain/bitcoin with buttcoin/buttcoin.",
+  "description": "Replaces blockchain with buttchain, bitcoin with buttcoin.",
   "content_scripts": [
     {
       "matches": ["*://*/*"],
