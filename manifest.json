@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Buttchain",
-  "version": "1.0",
+  "version": "1.0.1",
   "description": "Replaces blockchain with buttchain, bitcoin with buttcoin.",
   "icons": {
     "48": "icon.svg",
